@@ -20,7 +20,7 @@ This repository contains an implementation of a distributed system for finding t
 ## Installation
 - Clone to your local machine
 ```
-git clone https://github.com/your-username/kth-smallest-element-finder.git](https://github.com/MAXIMUSSCORP/kth-smallest-element.git
+git clone https://github.com/MAXIMUSSCORP/kth-smallest-element.git
 cd kth-smallest-element-finder
 ```
 - Compile the program with GCC:
@@ -47,4 +47,4 @@ After compilation, you can run the program by executing the parallel_quicksort b
 ```
 
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.m](https://github.com/MAXIMUSSCORP/kth-smallest-element/blob/main/LICENSE) file for details.
