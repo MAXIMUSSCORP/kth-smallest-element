@@ -47,4 +47,4 @@ After compilation, you can run the program by executing the parallel_quicksort b
 ```
 
 # License
-This project is licensed under the MIT License - see the [LICENSE.m](https://github.com/MAXIMUSSCORP/kth-smallest-element/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/MAXIMUSSCORP/kth-smallest-element/blob/main/LICENSE) file for details.
