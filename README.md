@@ -1,6 +1,10 @@
 # Kth Smallest Element Finder Using QuickSort and IPC
 This repository contains an implementation of a distributed system for finding the kth smallest element in an unsorted array. The system utilizes the QuickSort algorithm in conjunction with Inter-Process Communication (IPC) through pipes, leveraging multiple processes to enhance the efficiency and speed of the search. The solution is designed for Unix-based operating systems and showcases the use of process synchronization and communication in a parallel computing context.
 
+## Authors
+- Varshitha Venkatesh [Varshiiii](https://github.com/varshivenkatesh)
+- Mohammad Zaid Khan [MAXIMUSSCORP](https://github.com/MAXIMUSSCORP)
+
 ## Features
 #### QuickSort Algorithm:
 - Efficiently sorts integers across multiple datasets in parallel.
